@@ -3,6 +3,8 @@ app:
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
   # number of instances
+  
+  endpoints: public
   instances:
     # q: consider availability zones? 
 
